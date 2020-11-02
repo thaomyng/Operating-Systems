@@ -1,0 +1,3 @@
+iOS is a mobile operating system designed and developed by Apple Inc exclusively for its hardware. 
+The OS was written by C, C++, Objective-C, Swift, etc, and initially released on June 29, 2007. 
+It is the world’s second-most widely installed mobile OS after Android, and it power mostly Apple mobile device (iPhone, and iPod Touch).
