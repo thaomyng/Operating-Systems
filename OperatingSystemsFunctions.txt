@@ -1,3 +1,6 @@
 One of the mandatory and important functions of an Operating System (OS) is the function to start computers and mobile devices, user can turn off or on the devices by pressing a power button. 
 The OS also includes various power options including Sleep Mode, Hibernate, and restart mode. 
 Sleep Mode and Hibernate both will save the open documents and any running programs or app, then Sleep mode will turn off all unneeded functions and place the device in a low-power state, while Hibernate will remove the power from devices. 
+Another OS function is a user interface (UI).  
+IU is a space where interaction between humans and machine occurs. 
+It controls how you manage the data, input the instructions, and how to display information on the screen. The goal of IU is to provide a clear display of how computers deliver information to users. 
